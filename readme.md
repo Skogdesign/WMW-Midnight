@@ -9,4 +9,4 @@ This version of WoW Model Viewer has been updated and rewritten to support World
 ## About This Fork
 
 This fork modernizes the original WoW Model Viewer codebase and adds support for World of Warcraft: Midnight. The goal is to keep WMV compatible with current and future expansions while preserving the functionality creators, machinima artists, and model enthusiasts rely on.
-You can download a stable build of WMV [here](https://wowmodelviewer.net/new/download/).
+You can download a stable build of WMV
